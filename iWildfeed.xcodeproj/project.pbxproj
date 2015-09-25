@@ -474,7 +474,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0460;
-				ORGANIZATIONNAME = Firebase;
+				ORGANIZATIONNAME = Wilddog;
 			};
 			buildConfigurationList = 375C5E23170B8F2400BB1CE9 /* Build configuration list for PBXProject "iWildfeed" */;
 			compatibilityVersion = "Xcode 3.2";
