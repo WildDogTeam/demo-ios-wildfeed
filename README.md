@@ -6,7 +6,7 @@
 
 可以参考[wilddog demo](http://wildfeed.wilddogapp.com) 
 
-[![一个demo页面的快照](screenshot.png)](http://wildfeed.wilddogapp.com/)
+[![一个demo页面的快照](screenShot.png)](http://wildfeed.wilddogapp.com/)
 
 ### 授权
 ```HTML
@@ -57,12 +57,3 @@ We would like to thank the following projects for helping us achieve our goals:
 Open Source:
 
 * [firefeed](https://github.com/firebase/iFirefeed) Firefeed is a IOS app that lets users post small messages called sparks to their feed. You can follow other users, and their sparks will appear on your feed
-
-
-
-
-
-
-
-
-
