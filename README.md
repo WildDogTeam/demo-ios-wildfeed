@@ -6,7 +6,7 @@
 
 可以参考[wilddog demo](http://wildfeed.wilddogapp.com) 
 
-[![一个demo页面的快照](screenshot.png)](http://wildfeed.wilddogapp.com/)
+[![一个demo页面的快照](screenShot.png)](http://wildfeed.wilddogapp.com/)
 
 ### 授权
 ```HTML
@@ -37,7 +37,7 @@ git clone git@github.com:WildDogTeam/demo-ios-wildfeed.git
 
 ## 相关文档
 
-* [wildfeed　js版本](https://github.com/WildDogTeam/demo-js-wildfeed)
+* [wildfeed js版本](https://github.com/WildDogTeam/demo-js-wildfeed)
 * [Wilddog 概览](https://z.wilddog.com/overview/guide)
 * [IOS SDK快速入门](https://z.wilddog.com/ios/quickstart)
 * [IOS SDK 开发向导](https://z.wilddog.com/ios/guide/1)
@@ -57,12 +57,3 @@ We would like to thank the following projects for helping us achieve our goals:
 Open Source:
 
 * [firefeed](https://github.com/firebase/iFirefeed) Firefeed is a IOS app that lets users post small messages called sparks to their feed. You can follow other users, and their sparks will appear on your feed
-
-
-
-
-
-
-
-
-
