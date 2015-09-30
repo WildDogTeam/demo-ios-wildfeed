@@ -57,3 +57,9 @@ We would like to thank the following projects for helping us achieve our goals:
 Open Source:
 
 * [firefeed](https://github.com/firebase/iFirefeed) Firefeed is a IOS app that lets users post small messages called sparks to their feed. You can follow other users, and their sparks will appear on your feed
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 18b307b438127d5c7da9d34983cec50ae068e021
