@@ -1,10 +1,68 @@
-# iWildfeed Client for iOS
+### demo-js-wildfeed
 
-此应用程序已更新为使用新的wilddog登录框架，并推出了重大更改。可以发现对新的登录功能的更多信息。
+利用野狗Wilddog Sdk开发的类似的微博的社交应用。
 
-此应用程序演示各种技术与wilddog框架在iOS上构建复杂应用程序的工作。
-iWildfeed 是一个类似微博的社交类APP。
-  
-它显示了如何处理与wilddog复杂对象的列表，以及用户数据和验证。它也
-演示了一些非规范化技术的数据，使其更容易进行查询，以及用于执行方法
-搜索对你的数据。
+## 实例
+
+可以参考[wilddog demo](http://wildfeed.wilddogapp.com) 
+
+![Alt text](/Users/imacli/desktop/wildfeed.jpg)
+
+### 授权
+```HTML
+self.firefeed = [[Firefeed alloc] initWithUrl:@"https://feed.wilddogio.com" delegate:self];
+
+// 监控登录状态的变化
+ _authHandle = [_ref observeAuthEventWithBlock:^(WAuthData *user) {
+            // This is the new style, but there doesn't appear to be any way to tell which way the user is going, online or offline?
+            if ((user == nil) && (_user != nil)) {
+                //[self onAuthStatusError:nil user:nil];
+            }
+        }];
+```
+
+
+## 本地运行
+
+首先确认本机已经安装Xcode 运行环境，然后执行,模拟器或者真机：
+
+```
+git clone git@github.com:WildDogTeam/demo-ios-wildfeed.git
+
+```
+
+
+## 支持
+如果在使用过程中有任何问题，请提 [issue](https://github.com/WildDogTeam/demo-ios-wildfeed/issues) ，我会在 Github 上给予帮助。
+
+## 相关文档
+
+* [wildfeed　js版本](https://github.com/WildDogTeam/demo-js-wildfeed)
+* [Wilddog 概览](https://z.wilddog.com/overview/guide)
+* [IOS SDK快速入门](https://z.wilddog.com/ios/quickstart)
+* [IOS SDK 开发向导](https://z.wilddog.com/ios/guide/1)
+* [IOS SDK API](https://z.wilddog.com/ios/api)
+* [下载页面](https://www.wilddog.com/download/)
+* [Wilddog FAQ](https://z.wilddog.com/faq/qa)
+
+
+## License
+MIT
+http://wilddog.mit-license.org/
+
+## 感谢 Thanks
+
+We would like to thank the following projects for helping us achieve our goals:
+
+Open Source:
+
+* [firefeed](https://github.com/firebase/iFirefeed) Firefeed is a IOS app that lets users post small messages called sparks to their feed. You can follow other users, and their sparks will appear on your feed
+
+
+
+
+
+
+
+
+
