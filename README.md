@@ -6,7 +6,7 @@
 
 可以参考[wilddog demo](http://wildfeed.wilddogapp.com) 
 
-![Alt text](/Users/imacli/desktop/wildfeed.jpg)
+[![一个demo页面的快照](screenshot.png)](http://wildfeed.wilddogapp.com/)
 
 ### 授权
 ```HTML
