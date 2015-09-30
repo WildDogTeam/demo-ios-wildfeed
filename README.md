@@ -1,6 +1,6 @@
 ### demo-IOS-wildfeed
 
-利用野狗Wilddog Sdk开发的类似的微博的社交应用。
+#利用野狗Wilddog Sdk开发的类似的微博的社交应用。
 
 ## 实例
 
