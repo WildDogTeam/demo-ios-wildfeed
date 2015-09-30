@@ -37,7 +37,7 @@ git clone git@github.com:WildDogTeam/demo-ios-wildfeed.git
 
 ## 相关文档
 
-* [wildfeed　js版本](https://github.com/WildDogTeam/demo-js-wildfeed)
+* [wildfeed js版本](https://github.com/WildDogTeam/demo-js-wildfeed)
 * [Wilddog 概览](https://z.wilddog.com/overview/guide)
 * [IOS SDK快速入门](https://z.wilddog.com/ios/quickstart)
 * [IOS SDK 开发向导](https://z.wilddog.com/ios/guide/1)
