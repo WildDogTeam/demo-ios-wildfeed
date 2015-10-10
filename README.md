@@ -1,4 +1,4 @@
-### demo-ios-wildfeed
+# demo-ios-wildfeed
 
 demo-ios-wildfeed 是一个基于 Wilddog iOS SDK 开发的类似微博的社交应用。
 
@@ -8,7 +8,7 @@ demo-ios-wildfeed 是一个基于 Wilddog iOS SDK 开发的类似微博的社交
 
 [![一个demo页面的快照](screenShot.png)](http://wildfeed.wilddogapp.com/)
 
-### 授权
+## 授权
 ```HTML
 self.firefeed = [[Firefeed alloc] initWithUrl:@"https://feed.wilddogio.com" delegate:self];
 
